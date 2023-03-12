@@ -20,9 +20,12 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
-| 2 |  -             |  -             | https://       |
-| 3 |  -             |  -             | https://       |
+| 1 |coffie sales| Revenue generated  | https://github.com/Kobbyeduah/Azubi_First_Project.git|
+
+| 2 | Sales |sales and operations planning| https://github.com/Kobbyeduah/Azubi_Project2.git |
+
+
+| 3 |Student Data| student dataset | https://github.com/Kobbyeduah/Azubi_project-3.git  |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
